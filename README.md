@@ -1,3 +1,3 @@
 # .Net_readXcl
 
-## add reference ExcelDataReader[GitHub](https://github.com/ExcelDataReader/ExcelDataReader)   and ExcelDataReader.DataSet
+## add reference [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader)   and ExcelDataReader.DataSet
