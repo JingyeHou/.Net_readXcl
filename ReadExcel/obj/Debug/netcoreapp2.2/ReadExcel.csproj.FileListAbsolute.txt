@@ -1,0 +1,11 @@
+/Users/houjingye/Documents/c#/ReadExcel/ReadExcel/obj/Debug/netcoreapp2.2/ReadExcel.csprojAssemblyReference.cache
+/Users/houjingye/Documents/c#/ReadExcel/ReadExcel/obj/Debug/netcoreapp2.2/ReadExcel.csproj.CoreCompileInputs.cache
+/Users/houjingye/Documents/c#/ReadExcel/ReadExcel/obj/Debug/netcoreapp2.2/ReadExcel.AssemblyInfoInputs.cache
+/Users/houjingye/Documents/c#/ReadExcel/ReadExcel/obj/Debug/netcoreapp2.2/ReadExcel.AssemblyInfo.cs
+/Users/houjingye/Documents/c#/ReadExcel/ReadExcel/bin/Debug/netcoreapp2.2/ReadExcel.deps.json
+/Users/houjingye/Documents/c#/ReadExcel/ReadExcel/bin/Debug/netcoreapp2.2/ReadExcel.runtimeconfig.json
+/Users/houjingye/Documents/c#/ReadExcel/ReadExcel/bin/Debug/netcoreapp2.2/ReadExcel.runtimeconfig.dev.json
+/Users/houjingye/Documents/c#/ReadExcel/ReadExcel/bin/Debug/netcoreapp2.2/ReadExcel.dll
+/Users/houjingye/Documents/c#/ReadExcel/ReadExcel/bin/Debug/netcoreapp2.2/ReadExcel.pdb
+/Users/houjingye/Documents/c#/ReadExcel/ReadExcel/obj/Debug/netcoreapp2.2/ReadExcel.dll
+/Users/houjingye/Documents/c#/ReadExcel/ReadExcel/obj/Debug/netcoreapp2.2/ReadExcel.pdb

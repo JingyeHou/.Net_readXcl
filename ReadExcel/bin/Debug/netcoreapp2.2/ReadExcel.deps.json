@@ -1,0 +1,118 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "2bbb16c0473edb3e07d174394d370f89721f97a4"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "ReadExcel/1.0.0": {
+        "dependencies": {
+          "ExcelDataReader": "3.4.2",
+          "ExcelDataReader.DataSet": "3.4.2",
+          "Microsoft.Office.Interop.Excel": "15.0.4795.1000",
+          "System.Text.Encoding.CodePages": "4.5.1"
+        },
+        "runtime": {
+          "ReadExcel.dll": {}
+        }
+      },
+      "ExcelDataReader/3.4.2": {
+        "runtime": {
+          "lib/netstandard2.0/ExcelDataReader.dll": {
+            "assemblyVersion": "3.4.2.0",
+            "fileVersion": "3.4.2.0"
+          }
+        }
+      },
+      "ExcelDataReader.DataSet/3.4.2": {
+        "dependencies": {
+          "ExcelDataReader": "3.4.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/ExcelDataReader.DataSet.dll": {
+            "assemblyVersion": "3.4.2.0",
+            "fileVersion": "3.4.2.0"
+          }
+        }
+      },
+      "Microsoft.Office.Interop.Excel/15.0.4795.1000": {
+        "runtime": {
+          "lib/net20/Microsoft.Office.Interop.Excel.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4795.1000"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "4.0.4.1",
+            "fileVersion": "4.6.26919.2"
+          }
+        }
+      },
+      "System.Text.Encoding.CodePages/4.5.1": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Text.Encoding.CodePages.dll": {
+            "assemblyVersion": "4.1.1.0",
+            "fileVersion": "4.6.27129.4"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.1.1.0",
+            "fileVersion": "4.6.27129.4"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReadExcel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExcelDataReader/3.4.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SIzbv+04wpgM96SWFaX5cbwwJKStx5LtFt/QIefP7f0OUjzaUzwwdMG5oXLASxVcZT4QK13F8zfqF55yjEYQZg==",
+      "path": "exceldatareader/3.4.2",
+      "hashPath": "exceldatareader.3.4.2.nupkg.sha512"
+    },
+    "ExcelDataReader.DataSet/3.4.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ciitjn6Z95ryiYDt3R5qNJwoYH9kwimseVOzcUNpLa9BPduoUpQfbgLoStA2fR9NRXb6veV6Vjbm8lMAjII1jw==",
+      "path": "exceldatareader.dataset/3.4.2",
+      "hashPath": "exceldatareader.dataset.3.4.2.nupkg.sha512"
+    },
+    "Microsoft.Office.Interop.Excel/15.0.4795.1000": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iNGgO/2HBH9sy5AtVTvNW30NFpPBVngRqd8CN9d/LYk7KnstiOrRLPOOrJesqmdeDAUZwetCYEO8RvUxSd7UBg==",
+      "path": "microsoft.office.interop.excel/15.0.4795.1000",
+      "hashPath": "microsoft.office.interop.excel.15.0.4795.1000.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hMkdWxksypQlFXB7JamQegDscxEAQO4FHd/lw/zlSZU9dZgAij65xjCrXer183wvoNAzJic5zzjj2oc9/dloWg==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.2",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Eu3dyUUqDFkuskrrK54VLWC41EVANJNo5vzjojnGAphH+FV63NJg3zs5x0TvRaYDTZ2y+86eIOK43Hg2NXiw7w==",
+      "path": "system.text.encoding.codepages/4.5.1",
+      "hashPath": "system.text.encoding.codepages.4.5.1.nupkg.sha512"
+    }
+  }
+}
